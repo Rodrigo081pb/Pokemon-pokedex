@@ -1,3 +1,7 @@
+window.onload = function() {
+    alert("Bem-vindo à Pokedex!");
+  };  
+
 const pokemonList = document.getElementById('pokemonList')
 const loadMoreButton = document.getElementById('loadMoreButton')
 
